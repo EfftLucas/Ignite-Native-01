@@ -1,0 +1,10 @@
+{
+  "arrowPadding": "always",
+  "bracketSpacing": true,
+  "quotes": true,
+  "semi": true,
+  "printWidth": 100,
+  "useTabs": false,
+  "tabs": 2,
+  "trailingComma": "es5"
+}
